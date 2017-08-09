@@ -1,3 +1,4 @@
+//something
 package net.praqma.codeacademy.gildedrose;
 
 import static org.junit.Assert.*;
